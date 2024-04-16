@@ -1,4 +1,4 @@
-# Fourier-Quantum-Process-Tomography
+# Fourier Quantum Process Tomography
 
 By Francesco Di Colandrea, University of Ottawa, 2024. See https://arxiv.org/abs/2312.13458 for more details.
 
